@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Rock Paper Shotgun Restyler
 // @namespace    https://github.com/Daiz/rps-restyler
-// @version      1.1
+// @version      1.2
 // @description  Tweaks the styling of Rock Paper Shotgun to be more pleasant.
 // @author       Daiz
 // @match        https://www.rockpapershotgun.com/*
@@ -75,6 +75,10 @@ main .above { padding-right: 0 !important; }
 main .above .section-title { display: none !important; }
 #comments { padding-left: 0 !important; }
 .comments-container { margin: 0 auto !important; }
+
+/* make buttons & tags red on featured articles */
+article.feature .button, article.feature + script + div .button { background-color: ${red} !important; }
+article.feature + script + div>p a { color: ${red} !important; }
 
 /* tweak and improve comment coloring */
 .comment>.details .username { color: black !important; }
