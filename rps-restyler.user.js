@@ -96,7 +96,7 @@ main .above .section-title { display: none !important; }
 .blog-post.feature .images img { border-top-left-radius: 0; }
 
 /* bolden tags */
-.blog-post .tags a { font-weight: bold; }
+p.tags a { font-weight: bold; }
 
 /* increase "read more" button size and restyle it */
 .blog-post .button:not(.outline), .spotlight-bar .button {
