@@ -9,6 +9,10 @@ A userscript for tweaking the layout and style of [Rock Paper Shotgun](http://ww
 
 ### [**INSTALL THE USERSCRIPT**](https://github.com/Daiz/rps-restyler/raw/master/rps-restyler.user.js)
 
+## Screenshot
+
+![screenshot](https://user-images.githubusercontent.com/3596343/42914042-d23b1580-8b00-11e8-8fd4-0068ee59c1ce.png)
+
 ## Features
 
 - Removes the big spotlight at the top of the site - it's just too huge.
@@ -25,10 +29,6 @@ A userscript for tweaking the layout and style of [Rock Paper Shotgun](http://ww
 ### Comment Coloring Example
 
 ![comments](https://user-images.githubusercontent.com/3596343/42914048-e0319268-8b00-11e8-8875-60c318c5d636.png)
-
-### Full Screenshot Example
-
-![screenshot](https://user-images.githubusercontent.com/3596343/42914042-d23b1580-8b00-11e8-8fd4-0068ee59c1ce.png)
 
 ## License
 
